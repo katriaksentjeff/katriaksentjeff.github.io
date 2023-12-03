@@ -2,6 +2,7 @@
 
 ### Education
 Statistical Data Analytics, MSc Student
-# Master's thesis topic ""
+
+Master's thesis topic ""
 
 ### Projects
