@@ -3,8 +3,13 @@
 ### Education
 Statistical Data Analytics, MSc Student
 
-Master's thesis topic ""
+
 
 ### Projects
 
+## TITLE
+# MSc Thesis
+# DESCRIPTION
 
+## TITLE Anonymized psychotherapy service providers
+# DESCRIPTION
