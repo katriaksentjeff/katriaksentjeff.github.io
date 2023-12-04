@@ -4,7 +4,6 @@
 
 Rookie data-analyst, career-wise formerly known as the neuroscientist who fell in love with statistical modeling and analysis. Above all, I love to answer practical questions or derive practical questions that needs to  be answered. Thus, I dove head-first to my studies in Computing Sciences specializing in Statistical Data Analytics in University of Tampere. Now, I'm ready to start my career and show you my curious way of thinking! 
 
-
 ## Education
 Statistical Data Analytics, MSc Student
 
