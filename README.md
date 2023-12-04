@@ -14,7 +14,7 @@ Statistical Data Analytics, MSc Student
 As a master's degree student in Statistical Data Analytics, I keep an eye on the news and trends. Mental health and mental health services have become a more discussed topic in Finland in the past few years. The statistics from Kela show that the number of applicants for rehabilitative psychotherapy is rising annually. Especially there has been mentions about a mental health crisis in Finland due to the resticted access to mental health services.
 
 ##### TASK
-Aim is to show the current situation about Kela accepted psychoterapy providers in case of adult individual therapy in 25 biggest cities in Finland.
+Aim is to show the current situation in 2022 about Kela accepted psychoterapy providers in case of adult individual therapy in 25 biggest cities in Finland.
 
 ##### ACTION
 Collected data about Kela accepted psychotherapy providers in the 25 biggest cities in Finland. Data is colleceted from the registry where it is searched by the applicant's hometown. The data contains information about psychotherapy providers for adult individual therapy with four most common psychotherapy types: psychoanalytic, psychodynamic, cognitive, and solution-oriented. After anonymizing and masking the data in Jupyter Notebook using Python it was exported as a csv-file and transferred to Tableau Public.
