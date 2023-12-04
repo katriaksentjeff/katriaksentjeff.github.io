@@ -1,15 +1,16 @@
 # Data Analyst
 
+## About me
+
+Rookie data-analyst, career-wise formerly known as the neuroscientist who fell in love with statistical modeling and analysis. Above all, I love to answer practical questions or derive practical questions that needs to  be answered. Thus, I dove head-first to my studies in Computing Sciences specializing in Statistical Data Analytics in University of Tampere. Now, I'm ready to start my career and show you my curious way of thinking! 
+
+
 ## Education
 Statistical Data Analytics, MSc Student
 
 ## Projects
 
-### 1. TITLE
-#### MSc Thesis
-##### DESCRIPTION
-
-### 2. [Anonymized psychotherapy service providers](https://katriaksentjeff.github.io/Project2/) in Finnish
+### 1. [Anonymized psychotherapy service providers](https://katriaksentjeff.github.io/Project2/) in Finnish
 ##### SITUATION
 As a master's degree student in Statistical Data Analytics, I keep an eye on the news and trends. Mental health and mental health services have become a more discussed topic in Finland in the past few years. The statistics from Kela show that the number of applicants for rehabilitative psychotherapy is rising annually. Especially there has been mentions about a mental health crisis in Finland due to the resticted access to mental health services.
 
