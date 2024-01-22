@@ -9,7 +9,7 @@ Statistical Data Analytics, MSc Student
 
 ## Projects
 
-### 1. [Anonymized psychotherapy service providers](https://katriaksentjeff.github.io/Project2/) in Finnish
+### 1. [Anonymized psychotherapy service providers](https://katriaksentjeff.github.io/Project2/)
 ##### SITUATION
 As a master's degree student in Statistical Data Analytics, I keep an eye on the news and trends. Mental health and mental health services have become a more discussed topic in Finland in the past few years. The statistics from Kela show that the number of applicants for rehabilitative psychotherapy is rising annually. Especially there has been mentions about a mental health crisis in Finland due to the resticted access to mental health services.
 
