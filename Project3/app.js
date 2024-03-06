@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://1drv.ms/x/s!AmHHafZA3MOVaylTT7m_1cWUxH8?e=VoC51P";
+const url = "https://tuni-my.sharepoint.com/:x:/g/personal/katri_aksentjeff_tuni_fi/Ee4z-iRLNxBPocnoyh6sF6wBju68rvLZTRzXj7-S69SGrg?e=to2GfX";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
