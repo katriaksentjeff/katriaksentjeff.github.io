@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/views/Kooste25kaupunginpsykoterapianpalveluntarjoajista/Suomen25suurimmankaupunginaikuistenyksilpsykoterapiankuvauspalveluntarjoajista?:language=en-US&:display_count=n&:origin=viz_share_link";
+const url = "https://docs.google.com/spreadsheets/d/1wkpPqzCBaY0B1i6ZYTAKC69SAFznFtf_/edit?usp=sharing&ouid=105738761367330960634&rtpof=true&sd=true";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
